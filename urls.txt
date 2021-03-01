@@ -1,5 +1,5 @@
-1 https://github.com/gunadhya/udapeople
-2 Screenshots/runningbucket.png
-3 Screenshots/running.png
-4 Screenshots/runningec2.png
-5 ec2-13-232-152-103.ap-south-1.compute.amazonaws.com:9090
+project https://github.com/gunadhya/udapeople
+bucket http://udapeople-adcf350.s3-website.ap-south-1.amazonaws.com/#/employees
+frontend http://d16xbelyanohc5.cloudfront.net/#/employees
+ec2 backend http://13.232.198.98:3030/api/status
+prometheus ec2-13-232-152-103.ap-south-1.compute.amazonaws.com:9090

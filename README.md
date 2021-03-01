@@ -1,13 +1,14 @@
 
 # Give your Application Auto-Deploy Superpowers
 
-
 ### Presentation -> [PDF](presentation.pdf)
 ---
 
 # Running Screenshots
 ### Frontend
 ![image](Screenshots/running.png)
+![image](Screenshots/frontexample2.png)
+
 ### Bucket
 ![image](Screenshots/runningbucket.png)
 ### Backend
@@ -42,7 +43,7 @@
 ### Prometheus Screenshot
 ![image](Screenshots/prnode.png)
 ### Alertmanager
-![image](Screenshots/12.png)
+![image](Screenshots/12-1.png)
 
 
 
